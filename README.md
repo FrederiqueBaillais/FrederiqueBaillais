@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Ici vous trouverez mon [CV](../My-CV/CV_BAILLAIS_Frederique.pdf)
+Ici vous trouverez mon [CV](https://github.com/FrederiqueBaillais/My-CV/blob/main/CV_BAILLAIS_Frederique.pdf)
 
-Et là les [projets](../Projets_realises/README.md) réalisés chez BeCode.
+Et là les [projets](https://github.com/FrederiqueBaillais/Projets_realises) réalisés chez BeCode.
 
 ## Langages utilisés et connus
 
