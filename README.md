@@ -10,4 +10,4 @@ Et là les [projets](https://github.com/FrederiqueBaillais/Projets_realises) ré
 
 ## Frameworks utilisés et connus
 
-![Wordpress](wordpress.png "Wordpress") ![React](react.png "React")
+![Wordpress](wordpress.png "Wordpress") ![React](react.png "React") ![MongoDB](mongodb.png "MongoDB")
