@@ -1,6 +1,6 @@
 # Salut à tous !
 
-Ici vous trouverez mon [CV](https://github.com/FrederiqueBaillais/My-CV/blob/main/CV_BAILLAIS_Frédérique.pdf)
+Ici vous trouverez mon [CV](https://github.com/FrederiqueBaillais/My-CV/blob/main/CV_BAILLAIS_Frederique.pdf)
 
 Et là les [projets](https://github.com/FrederiqueBaillais/Projets_realises) réalisés chez BeCode.
 
